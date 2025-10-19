@@ -24,6 +24,8 @@ export default function ModalTest() {
           onClose={onClose}
           body={<div>Customized body</div>}
         />
+
+        
       )}
     </div>
   );

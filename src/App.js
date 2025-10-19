@@ -26,7 +26,7 @@ function App() {
   return (
     <div className="App">
       {/* Accordian component */}
-      <Accordian/>
+      {/* <Accordian/> */}
       {/* Random color component */}
       {/* <RandomColor/> */}
 
@@ -59,7 +59,7 @@ function App() {
       {/* <TabTest /> */}
 
       {/* Custom Modal Component */}
-      {/* <ModalTest/> */}
+      <ModalTest/>
 
       {/* Github profile finder */}
       {/* <GithubProfileFinder/> */}
