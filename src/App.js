@@ -56,10 +56,10 @@ function App() {
       {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=100"} /> */}
 
       {/* Custom tabs component */}
-      {/* <TabTest /> */}
+      <TabTest />
 
       {/* Custom Modal Component */}
-      <ModalTest/>
+      {/* <ModalTest/> */}
 
       {/* Github profile finder */}
       {/* <GithubProfileFinder/> */}

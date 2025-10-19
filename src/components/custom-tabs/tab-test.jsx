@@ -2,7 +2,13 @@ import Tabs from "./tabs";
 import './tabs.css';
 
 function RandomComponent() {
-  return <h1>Some random content</h1>;
+  return (
+    <div>
+      <p>random tab content<span style={{color:"green"}}> jayyu the coder</span></p>
+      <p>random tab</p>
+  
+    </div>
+  );
 }
 
 export default function TabTest() {
